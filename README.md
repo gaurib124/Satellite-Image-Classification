@@ -51,6 +51,7 @@ We use the **EuroSAT dataset**, which contains **27,000 labeled images** of vari
 * Residential
 * River
 * SeaLake
+
 ![Dataset](screenshots/dataset.jpg)
 ---
 
@@ -92,7 +93,7 @@ Sample predictions and confusion matrices were generated.
 
 ![predictions](screenshots/predic.png)
 ![](screenshots/prediction.jpg)
-![](screenshots/cnn.jpg)
+
 
 ## ✅ Conclusion
 
@@ -139,12 +140,9 @@ Steps:
 ✔ **View Results**: Displays the classification result
 
 
-<<<<<<< HEAD
-![result](screenshots/Result1.png)
-=======
 
----
->>>>>>> cc35f505cd7c632da48328b3df671e3ac5343068
+![result](screenshots/Result1.png)
+
 
 ## 📩 Contact
 
@@ -157,10 +155,4 @@ Steps:
 
 ✅ **Feel free to fork, star ⭐ and contribute!**
 
-=======
-# Satellite-Image-Classification
-Satellite Image Classification using CNN – A deep learning project that classifies satellite images into 10 land cover categories (e.g., sea, lake, highway, forest). Built with TensorFlow/Keras and Tkinter, it features dynamic model selection, real-time predictions, and an interactive GUI.
-<<<<<<< HEAD
-=======
 
->>>>>>> cc35f505cd7c632da48328b3df671e3ac5343068
