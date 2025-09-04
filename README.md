@@ -138,9 +138,13 @@ Steps:
 ✔ **Select Image**: Choose the image to classify
 ✔ **View Results**: Displays the classification result
 
----
 
+<<<<<<< HEAD
 ![result](screenshots/Result1.png)
+=======
+
+---
+>>>>>>> cc35f505cd7c632da48328b3df671e3ac5343068
 
 ## 📩 Contact
 
@@ -156,3 +160,7 @@ Steps:
 =======
 # Satellite-Image-Classification
 Satellite Image Classification using CNN – A deep learning project that classifies satellite images into 10 land cover categories (e.g., sea, lake, highway, forest). Built with TensorFlow/Keras and Tkinter, it features dynamic model selection, real-time predictions, and an interactive GUI.
+<<<<<<< HEAD
+=======
+
+>>>>>>> cc35f505cd7c632da48328b3df671e3ac5343068
