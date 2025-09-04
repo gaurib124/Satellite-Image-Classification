@@ -1,13 +1,12 @@
-<<<<<<< HEAD
-Here’s the full **README.md** ready for you to copy and use:
 
----
 
 # 🌍 Satellite Image Classification using a CNN
 
 ## ✅ Overview
 
 This project demonstrates the classification of satellite images using a custom Convolutional Neural Network (CNN). The model is designed to classify images from the **EuroSAT dataset** into ten distinct classes.
+
+![Classification](screenshots/satelitcls.png)
 
 ---
 
@@ -52,7 +51,7 @@ We use the **EuroSAT dataset**, which contains **27,000 labeled images** of vari
 * Residential
 * River
 * SeaLake
-
+![Dataset](screenshots/dataset.jpg)
 ---
 
 ## ⚙️ Methodology
@@ -68,6 +67,8 @@ We use the **EuroSAT dataset**, which contains **27,000 labeled images** of vari
 ### **Model Building**
 
 A custom CNN **SpectrumNet** with multiple convolutional layers, **Batch Normalization**, and **ReLU activation**.
+
+![model building](screenshots/cnn.jpg)
 
 ### **Model Training**
 
@@ -89,7 +90,9 @@ Achieved **96% accuracy** on the test set.
 
 Sample predictions and confusion matrices were generated.
 
----
+![predictions](screenshots/predic.png)
+![](screenshots/prediction.jpg)
+![](screenshots/cnn.jpg)
 
 ## ✅ Conclusion
 
@@ -137,12 +140,7 @@ Steps:
 
 ---
 
-## 🌐 Live Project
-
-(Not clickable, plain text)
-**Live Link:** [https://your-live-link-here](https://your-live-link-here)
-
----
+![result](screenshots/Result1.png)
 
 ## 📩 Contact
 
@@ -158,4 +156,3 @@ Steps:
 =======
 # Satellite-Image-Classification
 Satellite Image Classification using CNN – A deep learning project that classifies satellite images into 10 land cover categories (e.g., sea, lake, highway, forest). Built with TensorFlow/Keras and Tkinter, it features dynamic model selection, real-time predictions, and an interactive GUI.
->>>>>>> e96e6cf27be78387a2d49d9b35765ac6d9790fda
